@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 40px;
+}
+
+h1 {
+  color: #333;
+}
+
+input, button {
+  padding: 8px;
+  margin-top: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.erro {
+  color: red;
+  font-weight: bold;
+}
